@@ -1,0 +1,10 @@
+{
+  "name": "ABSENKA",
+  "short_name": "ABSENKA",
+  "description": "Absensi kegiatan Pramuka",
+  "start_url": "/login",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#153c73",
+  "icons": []
+}
